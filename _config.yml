@@ -2,6 +2,7 @@ name: recursive
 favicon: null
 layout_spectrum: 0.8591411910019815
 typography_spectrum: 0.401244874112308
+title: recursive
 cta:
   domain: null
   bucket: null
