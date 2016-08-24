@@ -1,20 +1,4 @@
-name: recursive
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.48507
-title: recursive
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,21 @@ color:
   lightness: 0.13175150169990957
   saturation: 0.4642512542195618
   rhythmicContrast: 0.43953336705453694
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: recursive
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: recursive
+description: change = growth = life
 purpose: []
